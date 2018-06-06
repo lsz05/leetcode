@@ -1,4 +1,4 @@
-# leetcode
+# LeetCode
 
 ## Python 3.5
 1-(E) Two Sum
