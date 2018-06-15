@@ -47,3 +47,7 @@
 
 202-(E) Happy Number 
 
+## OOD
+146-(H) LRU Cache
+
+535-(M) Encode and Decode TinyURL
