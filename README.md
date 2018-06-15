@@ -5,6 +5,8 @@
 
 2-(M) Add Two Numbers
 
+3-(M) Longest Substring Without Repeating Characters
+
 4-(H) Median of Two Sorted Arrays
 
 6-(M) ZigZag Conversion
@@ -20,6 +22,8 @@
 13-(E) Roman to Integer
 
 14-(E) Longest Common Prefix
+
+16-(M) 3Sum Closest
 
 20-(E) Valid Parentheses
 
