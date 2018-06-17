@@ -31,6 +31,8 @@
 
 21-(E) Merge Two Sorted Lists
 
+23-(H) Merge k Sorted List
+
 26-(E) Remove Duplicates from Sorted Array
 
 27-(E) Remove Element
@@ -40,6 +42,8 @@
 35-(E) Search Insert Position
 
 54-(M) Spiral Matrix
+
+148-(M) Sort List
 
 200-(M) Number of Islands
 
