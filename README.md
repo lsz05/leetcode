@@ -45,9 +45,13 @@
 
 148-(M) Sort List
 
+151-(M) Reverse Words in a String
+
 200-(M) Number of Islands
 
 273-(H) Integer to English Words
+
+454-(M) 4Sum II
 
 
 ## C++
