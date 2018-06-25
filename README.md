@@ -41,6 +41,8 @@
 
 35-(E) Search Insert Position
 
+36-(M) Valid Sudoku
+
 54-(M) Spiral Matrix
 
 80-(M) Remove Duplicates from Sorted Array II
